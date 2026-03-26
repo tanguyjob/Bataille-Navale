@@ -1,0 +1,15 @@
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net9.0\BatailleNavale.exe
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net9.0\BatailleNavale.deps.json
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net9.0\BatailleNavale.runtimeconfig.json
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net9.0\BatailleNavale.dll
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net9.0\BatailleNavale.pdb
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\BatailleNavale.sourcelink.json
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\BatailleNavale.dll
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\refint\BatailleNavale.dll
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\BatailleNavale.pdb
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\tangu\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net9.0\ref\BatailleNavale.dll
