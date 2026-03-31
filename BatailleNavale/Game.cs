@@ -8,23 +8,29 @@ namespace BatailleNavale
 {
     internal class Game
     {
+
+        
         public Game() 
         {
-            Initialisation();
-            ShowMyBoard();
-            Ships = new List<Ship> 
+            
+            Ships = new List<Ship>()
             {
-               //new Ship("Carrier",5),
-               //new Ship("Battleship",4),
-               //new Ship("Battleship",4),
-               //new Ship("Cruiser",5),
-               //new Ship("Cruiser",5),
-               //new Ship("Cruiser",5),
-               //new Ship("Carrier",5),
-
-            
+                new Carrier(),
+                new Battleship(),
+                new Cruiser(),
+                new Cruiser(),
+                new Destroyer(),
+                new Destroyer(),
+                new Submarine(),
             };
-            
+          
+
+            InitializationBoard();
+            ShowMyBoard();
+
+            InitializationShip();
+            ShowMyBoard();
+
 
         }
         public String[][] Board1 { get; private set; }
@@ -35,7 +41,7 @@ namespace BatailleNavale
 
 
 
-        public void Initialisation()
+        public void InitializationBoard()
         {
             Board1 = new String[11][];
 
@@ -54,6 +60,39 @@ namespace BatailleNavale
 
             Console.WriteLine("Hello this is your board!!!!\n");
         }
+
+        public void InitializationShip()
+        {
+
+      
+
+            Console.WriteLine("Where do you want to place your {0} ({1} case(s)) ?", Ships[0].Name, Ships[0].Size);
+            Console.WriteLine("Choose a case(By example B6)");
+            Ships[0].Begin= Console.ReadLine();
+            Console.WriteLine("Choose the last case where you want to put your {0}", Ships[0].Name);
+            Ships[0].End = Console.ReadLine();
+            StringToIndication(Ships[0].Begin);
+            StringToIndication(Ships[0].End);
+
+        }
+
+        public void StringToIndication(string st)
+        {
+            
+            string part1string = st.Substring(0,1);
+            string part2string = st.Substring(1,1);
+            char part1char= part1string.ToCharArray()[0];
+            int part1Int=(int) part1char-64;
+                                        
+            Int32.TryParse(part2string, out int part2Int);
+            Board1[part2Int][part1Int]="W";
+
+
+
+        }
+
+
+
 
         public void ShowMyBoard()
         {

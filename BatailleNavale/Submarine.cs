@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace BatailleNavale
 {
-    internal class Submarine
+    internal class Submarine:Ship
     {
+
+        internal Submarine() : base(1, "Destroyer")
+        {
+
+        }
     }
 }

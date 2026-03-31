@@ -46,16 +46,16 @@ Game g1 = new Game();
 
 
 
-Console.WriteLine("Veuillez placer votre cuirassé (4 cases) par la première case en commençant par la lettre puis le chiffre par exemple B6");
+//Console.WriteLine("Veuillez placer votre cuirassé (4 cases) par la première case en commençant par la lettre puis le chiffre par exemple B6");
 
-string indication =Console.ReadLine();
-string part1string = indication.Substring(0,1);
-string part2string = indication.Substring(1,1);
+//string indication =Console.ReadLine();
+//string part1string = indication.Substring(0,1);
+//string part2string = indication.Substring(1,1);
 
-char part1char = part1string.ToCharArray()[0];
-int part1Int = (int)part1char-64;
+//char part1char = part1string.ToCharArray()[0];
+//int part1Int = (int)part1char-64;
 //Console.WriteLine(part1int);
-Int32.TryParse( part2string, out int part2Int);
+//Int32.TryParse( part2string, out int part2Int);
 
 //board1[part2Int][part1Int] = "B";
 

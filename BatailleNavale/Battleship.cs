@@ -10,12 +10,11 @@ namespace BatailleNavale
     internal class Battleship : Ship
     {
 
-        //    private int _Size;
-        //    internal override int Size 
-        //    { 
-        //        get { return Size; }
-        //        set { } }
+        internal Battleship():base(4,"Battleship")
+        {
 
-        //}
+        }
+
+
     }
 }

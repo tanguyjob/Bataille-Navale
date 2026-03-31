@@ -6,19 +6,24 @@ using System.Threading.Tasks;
 
 namespace BatailleNavale
 {
-    internal class Ship
+    public class Ship
     {
         //public Ship(String Klass, int Size) 
         //  {
         //      this.Klass = Klass;
         //      this.Size = Size;
         //  }
-       
+       public Ship(int Size, String Name) 
+        {
+            this.Size = Size;
+            this.Name = Name;
+        }
 
-        public virtual int Size { get; set; }
+        public virtual int Size { get; }
+        public virtual String Name { get; }
 
-        public String Begin { get; set; }
-        public String End { get; set; }
+        internal String Begin { get; set; }
+        internal String End { get; set; }
 
 
 

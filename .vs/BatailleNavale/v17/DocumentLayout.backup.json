@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|solutionrelative:bataillenavale\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|c:\\users\\tangu\\source\\repos\\bataillenavale\\bataillenavale\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|solutionrelative:bataillenavale\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|c:\\users\\tangu\\source\\repos\\bataillenavale\\bataillenavale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|solutionrelative:bataillenavale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|c:\\users\\tangu\\source\\repos\\bataillenavale\\bataillenavale\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|solutionrelative:bataillenavale\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|c:\\users\\tangu\\source\\repos\\bataillenavale\\bataillenavale\\battleship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|solutionrelative:bataillenavale\\battleship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|c:\\users\\tangu\\source\\repos\\bataillenavale\\bataillenavale\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|solutionrelative:bataillenavale\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|c:\\users\\tangu\\source\\repos\\bataillenavale\\bataillenavale\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|solutionrelative:bataillenavale\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|c:\\users\\tangu\\source\\repos\\bataillenavale\\bataillenavale\\cruiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8444827-1C40-4CA5-AFE1-04EAFE10A975}|BatailleNavale\\BatailleNavale.csproj|solutionrelative:bataillenavale\\cruiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 38,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Destroyer.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Destroyer.cs",
+              "RelativeDocumentMoniker": "BatailleNavale\\Destroyer.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Destroyer.cs",
+              "RelativeToolTip": "BatailleNavale\\Destroyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:04:46.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cruiser.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Cruiser.cs",
+              "RelativeDocumentMoniker": "BatailleNavale\\Cruiser.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Cruiser.cs",
+              "RelativeToolTip": "BatailleNavale\\Cruiser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:03:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Submarine.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Submarine.cs",
+              "RelativeDocumentMoniker": "BatailleNavale\\Submarine.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Submarine.cs",
+              "RelativeToolTip": "BatailleNavale\\Submarine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:08:50.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Battleship.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Battleship.cs",
+              "RelativeDocumentMoniker": "BatailleNavale\\Battleship.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Battleship.cs",
+              "RelativeToolTip": "BatailleNavale\\Battleship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:08:47.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carrier.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Carrier.cs",
+              "RelativeDocumentMoniker": "BatailleNavale\\Carrier.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Carrier.cs",
+              "RelativeToolTip": "BatailleNavale\\Carrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:08:44.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Ship.cs",
+              "RelativeDocumentMoniker": "BatailleNavale\\Ship.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Ship.cs",
+              "RelativeToolTip": "BatailleNavale\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T20:31:50.483Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,27 +131,23 @@
               "RelativeDocumentMoniker": "BatailleNavale\\Game.cs",
               "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Game.cs*",
               "RelativeToolTip": "BatailleNavale\\Game.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwEIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-21T22:42:36.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Program.cs",
               "RelativeDocumentMoniker": "BatailleNavale\\Program.cs",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Program.cs*",
-              "RelativeToolTip": "BatailleNavale\\Program.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\BatailleNavale\\BatailleNavale\\Program.cs",
+              "RelativeToolTip": "BatailleNavale\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T06:38:18.101Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
